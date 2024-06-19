@@ -1,0 +1,94 @@
+1. ODO Kilometer
+   - Kurang dari 10.000 km?
+      - Ya: Lanjut ke langkah 2
+      - Tidak: Lanjut ke langkah 3
+
+2. Umur Kendaraan
+   - Lebih dari 5 tahun?
+      - Ya: Lanjut ke langkah 4
+      - Tidak: Lanjut ke langkah 5
+
+3. Penggunaan Kendaraan
+   - Hanya di akhir pekan?
+      - Ya: Rekomendasikan layanan ringan
+      - Tidak: Lanjut ke langkah 6
+
+4. Jarak Tempuh Kendaraan
+   - Lebih dari 30.000 km?
+      - Ya: Rekomendasikan layanan besar
+      - Tidak: Rekomendasikan layanan sedang
+
+5. Keluhan atau Masalah yang Dialami
+   - Ada keluhan atau masalah tertentu?
+      - Ya: Rekomendasikan layanan berdasarkan keluhan
+      - Tidak: Lanjut ke langkah 6
+
+6. Kondisi Kendaraan Saat Ini
+   - Perlu perbaikan besar?
+      - Ya: Rekomendasikan layanan besar
+      - Tidak: Lanjut ke langkah 7
+
+7. Ketersediaan Suku Cadang
+   - Ketersediaan suku cadang tertentu?
+      - Ya: Rekomendasikan layanan berdasarkan ketersediaan suku cadang
+      - Tidak: Lanjut ke langkah 8
+
+8. Lokasi Penggunaan Kendaraan
+   - Di perkotaan?
+      - Ya: Rekomendasikan layanan ringan
+      - Tidak: Rekomendasikan layanan sedang
+
+9. Batas Waktu Terakhir Layanan
+    - Lebih dari 1 tahun sejak layanan terakhir?
+      - Ya: Rekomendasikan layanan sedang
+      - Tidak: Rekomendasikan layanan ringan
+
+10. Budget untuk Layanan
+    - Anggaran tertentu untuk layanan?
+       - Ya: Sesuaikan rekomendasi layanan dengan anggaran
+       - Tidak: Berikan rekomendasi tanpa mempertimbangkan anggaran
+
+11. Waktu Terakhir Pergantian Oli
+    - Lebih dari 6 bulan?
+       - Ya: Rekomendasikan penggantian oli
+       - Tidak: Lanjut ke langkah 12
+
+12. Pengecekan Kelistrikan
+    - Masalah kelistrikan yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan kelistrikan
+       - Tidak: Lanjut ke langkah 13
+
+13. Pemeriksaan Sistem Bahan Bakar
+    - Masalah sistem bahan bakar yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan sistem bahan bakar
+       - Tidak: Lanjut ke langkah 14
+
+14. Pemeriksaan Sistem Rem
+    - Masalah sistem rem yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan sistem rem
+       - Tidak: Lanjut ke langkah 15
+
+15. Pemeriksaan Sistem Pendingin
+    - Masalah sistem pendingin yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan sistem pendingin
+       - Tidak: Lanjut ke langkah 16
+
+16. Pemeriksaan Sistem Suspensi
+    - Masalah sistem suspensi yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan sistem suspensi
+       - Tidak: Lanjut ke langkah 17
+
+17. Pemeriksaan Sistem Transmisi
+    - Masalah sistem transmisi yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan sistem transmisi
+       - Tidak: Lanjut ke langkah 18
+
+18. Pemeriksaan Sistem Knalpot
+    - Masalah sistem knalpot yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan sistem knalpot
+       - Tidak: Lanjut ke langkah 19
+
+19. Pemeriksaan Sistem Kelistrikan
+    - Masalah sistem kelistrikan yang dirasakan?
+       - Ya: Rekomendasikan pemeriksaan sistem kelistrikan
+       - Tidak: Rekomendasikan layanan ringan
